@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590470920 source:c:\users\cat\music\test\main.cpp
+	"Test.h"
+
+1590471078 c:\users\cat\music\test\test.h
+	<iostream>
+
+1590602896 source:c:\users\moosi\desktop\test\main.cpp
+	"Test.h"
+
+1590605468 c:\users\moosi\desktop\test\test.h
+	<iostream>
+
+1590640491 source:d:\test\main.cpp
+	"Test.h"
+
+1590640667 d:\test\test.h
+	<iostream>
+
